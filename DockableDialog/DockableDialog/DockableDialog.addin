@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DockableDialog</Name>
+    <Assembly>F:\6. revit\01. C#\03. Draft\DockableDialog\DockableDialog\bin\Debug\DockableDialog.dll</Assembly>
+    <AddInId>2B33D3F7-DE6D-4EC9-BA7E-9D4919CE46E5</AddInId>
+    <FullClassName>DockableDialog.MainClass</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
